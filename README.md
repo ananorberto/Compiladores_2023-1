@@ -8,6 +8,8 @@ Compiladores.](https://github.com/edsomjr/Compiladores)
 
 Respostas dos exercícios do livro: [GitHub - fool2fish/dragon-book-exercise-answers
 编译原理（紫龙书)](https://github.com/fool2fish/dragon-book-exercise-answers)
+
+Baixe o livro do Dragon Book clicando [aqui](https://github.com/ananorberto/Compiladores_2023-1/raw/main/dragons_book.pdf)
 #
 ### Recomendação - Aulas do professor Judson Santiago
 ![Foto de um
