@@ -7,7 +7,7 @@ GitHub da Disciplina: [edsomjr/Compiladores: Materiais da disciplina
 Compiladores.](https://github.com/edsomjr/Compiladores)
 
 Respostas dos exercícios do livro: [GitHub - fool2fish/dragon-book-exercise-answers
-编译原理（紫龙书](https://github.com/fool2fish/dragon-book-exercise-answers)
+编译原理（紫龙书)](https://github.com/fool2fish/dragon-book-exercise-answers)
 #
 ### Recomendação - Aulas do professor Judson Santiago
 ![Foto de um
