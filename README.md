@@ -22,7 +22,7 @@ gato](https://i.ytimg.com/vi/jgI711CrnnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq
 
 <details>
   <summary>
-    <h3> Prova 2022.1 </h3>
+   Prova 2022.1
   </summary>
 
   [Gabarito
@@ -199,13 +199,13 @@ gato](https://i.ytimg.com/vi/jgI711CrnnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq
 </details>
 <details>
   <summary>
-    <h3> Prova 2022.2 </h3>
+    Prova 2022.2 
   </summary>
 
 </details>
 <details>
   <summary>
-    <h3> Prova 2023.1 </h3>
+    Prova 2023.1 
   </summary>
 
   Resposta questão 15 - Lógica da questão:
@@ -217,7 +217,7 @@ gato](https://i.ytimg.com/vi/jgI711CrnnY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq
 </details>
 <details>
   <summary>
-    <h3> Lista #1 - 2023.1 </h3>
+    Lista #1 - 2023.1 
   </summary>
 
   [lista_1.pdf](https://github.com/ananorberto/Compiladores_2023-1/blob/main/Provas%20anteriores%20e%20lista/lista_1.pdf)
@@ -259,7 +259,7 @@ c. Expressões pós-fixadas de adição e multiplicação
 
 <details>
   <summary>
-    <h3>Dragon book exercise answers</h3>
+    Dragon book exercise answers
   </summary>
 
   ### **1.1.1**
@@ -321,7 +321,7 @@ c. Expressões pós-fixadas de adição e multiplicação
 
 <details>
   <summary>
-    <h3>Resumo Vídeo aulas - Compiladores (Judson Santiago)</h3>
+    Resumo Vídeo aulas - Compiladores (Judson Santiago)
   </summary>
 
 
